@@ -1,0 +1,13 @@
+Características de Go
+    1) Desarrollado por Google.
+    2) Compilado.
+    3) Tipado estático (fuertemente tipado).
+    4) Concurrente. Permite manejar múltiples procesos de manera simultánea.
+
+Usan Go.
+IPFS: Protocolo para intercambio de información entre múltiples clientes en P2P.
+
+Comango Go
+go build [file] - Compila.
+go run [file] - Compila y corre el programa. Crea un ejecutable temporal.
+go mod - Crear un módulo para poder exportar funciones.
